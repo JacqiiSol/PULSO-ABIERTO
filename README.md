@@ -121,3 +121,12 @@ El proyecto utiliza integración con GitHub para mantener el despliegue actualiz
 ## Variables de entorno
 
 La configuración actual del proyecto no requiere variables de entorno para su ejecución.
+
+## Verificación final
+
+- Pruebas ejecutadas: npm run test:run con Vitest y React Testing Library.
+- Build generado correctamente: sí, con npm run build sin errores.
+- Preview comprobado: sí, con npm run preview se comprobó la versión generada.
+- Despliegue realizado: sí, aplicación publicada en Vercel.
+- Enlace público: https://pulso-abierto-react.vercel.app
+- Fecha de verificación: 26 de noviembre de 2026
